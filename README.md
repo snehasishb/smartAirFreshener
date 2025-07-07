@@ -12,3 +12,5 @@
 #2 X diode 1N4007
 #2.1×5.5mm DC Power Jack Socket Panel Mount (Female) 
 #Slide Switch SS-12D00 1P2T
+
+![AirFreshner Diagram](https://github.com/user-attachments/assets/9d40beff-a252-4c45-807f-9604b397f0ba)
